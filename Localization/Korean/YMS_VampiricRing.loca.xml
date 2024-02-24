@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="h79f77aee4b914867928a17bf2d56e61fcb22" version="1">그림자의 흡혈 반지</content>
+    <content contentuid="hcb1054ca2a9d45d9bcceedf6dad8b20dd1f4" version="1">이 반지는 어둠의 힘으로 빚어진 신비한 유물이며, 뱀파이어의 본질로 넘쳐납니다. 전투 중에 착용자의 공격은 상대에게 레벨의 1/3에 해당하는 추가 사령 피해를 입히고, 피해를 입힌 만큼 흡수하여 자신의 체력을 보충합니다. 특히 치명적인 공격을 가할 때에는 더욱 강력한 효과를 발휘하여 피해와 회복량이 레벨의 1/2로 증가하고, 임시 생명력을 얻습니다.</content>
+    <content contentuid="h278f07bbd2e94ba9a501f21d7ca6e90e8656" version="1">그림자 흡혈의 일격</content>
+    <content contentuid="h6b5b5a8715f046b8ba36b27e9c864b9c5bc8" version="1">무기 공격이 적중하면 추가 [1]를 입히고, [2]을 회복합니다.</content>
+    <content contentuid="h58335546ae564b3fb1383b59dccedac61578" version="1">치명적인 그림자 흡혈의 일격</content>
+    <content contentuid="h5b599ffa0cd94d7293ddcdbd223b549be8f5" version="1">무기 공격이 치명타로 적중하면 추가 [1]를 입히고, [2]을 회복하고 [3]을 얻습니다.</content>
+</contentList>

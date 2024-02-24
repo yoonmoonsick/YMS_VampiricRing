@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="h79f77aee4b914867928a17bf2d56e61fcb22" version="1">Vampiric Ring of Shadows</content>
+    <content contentuid="hcb1054ca2a9d45d9bcceedf6dad8b20dd1f4" version="1">This ring is a mysterious artifact imbued with the power of darkness, overflowing with the essence of vampirism. During combat, the wearer's attacks deal additional necrotic damage equal to one-third of the level, and they absorb damage dealt to replenish their own health. Particularly, when landing critical strikes, it exerts a more potent effect, increasing both the damage dealt and health restored to half the level and granting temporary hit points.</content>
+    <content contentuid="h278f07bbd2e94ba9a501f21d7ca6e90e8656" version="1">Shadowed Vampiric Strike</content>
+    <content contentuid="h6b5b5a8715f046b8ba36b27e9c864b9c5bc8" version="1">Successful weapon attacks deal an additional [1], you gain [2].</content>
+    <content contentuid="h58335546ae564b3fb1383b59dccedac61578" version="1">Critical Shadowed Vampiric Strike</content>
+    <content contentuid="h5b599ffa0cd94d7293ddcdbd223b549be8f5" version="1">Critical weapon attacks deal an additional [1], you gain [2] and [3]. </content>
+</contentList>
